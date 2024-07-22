@@ -10,6 +10,7 @@ If you want the silkscreen in yellow [AllPCB](https://www.allpcb.com/online_pcb_
 - sometimes the Gerber preview from JLCPCB can't display the PCB, even when the files are fine. In this case use these dimensions: 258.7mm * 94.35mm
 - PCB Thickness 1.6mm
 - 2 layers
+- Number of different designs 2 (if applicable for your manufacturer)
 - PCB Qty as much as you like. One PCB is a full keyboard.
 - PCB Color Black (or any other color you like)
 - No impedance control
