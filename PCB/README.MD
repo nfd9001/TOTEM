@@ -16,6 +16,8 @@ If you want the silkscreen in yellow [AllPCB](https://www.allpcb.com/online_pcb_
 - Surface Finish HASL(with lead) if you want the easiest soldering experience or LeadFree HASL.
 - Remove Order Number Yes
 
+Some manufacturers, including JLCPCB, have a small upcharge for having multiple designs (i.e. in this case, the left and right halves of the board) in one order. Save some time by setting "different designs" to 2.
+
 ![TOTEM PCB](/docs/images/TOTEM_pcb.png)
 
 ***
